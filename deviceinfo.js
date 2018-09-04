@@ -1,6 +1,3 @@
-/**
- * @providesModule react-native-device-info
- */
 import { Platform, NativeModules } from 'react-native';
 
 var RNDeviceInfo = NativeModules.RNDeviceInfo;
